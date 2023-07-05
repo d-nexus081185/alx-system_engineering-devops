@@ -1,4 +1,0 @@
-#!/bin/bash
-ls
-echo "These are list of my files in this working directory"
-
